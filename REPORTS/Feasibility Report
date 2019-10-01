@@ -1,0 +1,28 @@
+                                         # Feasibility Report
+1.	Product:  This project is an open-source version of Churchill Solitaire card game, android application.
+The main addition from regular Churchill Solitaire game is that the user will be able to speak into a microphone and move the cards 
+accordingly. There are two teams working on this project. The first team is responsible for the database and API and the second team
+is responsible for the speech to text part.
+2.	Technical Feasibility: Database team will be using the Android Studio and chosen programming language is Kotlin. Given that 
+Android Studio and Kotlin are officially supported IDE and programming language for an android application.
+3.	Social Feasibility: The proposed addition will be accepted to the people who would be affected by its introduction. Effects on 
+users from the introduction of the new improvement are users can play the game faster, and the game will be playable hands free so
+some disabled and people with hand injuries can also play the game. There won’t be a need to retrain/relearn the game since we 
+won’t be changing any rules of the game. 
+4.	Economic Feasibility: The benefits should out weight the development cost since we are not recreating the game, only adding a 
+new feature. Real cost would be the development cost since there will not be any cost related to retraining/relearning. However 
+indirect cost might occur from the application maintenance. Real benefit is more users since people will be more interested in the 
+game because of voice control feature and some disabled people can play the game.
+5.	Market Research: According to the http://www.amputee-coalition.org/nllic_faq.html#2. There were 1,285,000 persons in the U.S. 
+living with the limb loss (excluding fingers and toes) in 1996. The prevalence rate in 1996 was 4.9 per 1,000 persons. The incidence
+rate was 46.2 per 100,000 persons with dysvascular disease, 5.86 per 100,000 persons secondary to trauma, 0.35 per 100,000 secondary
+to malignancy of a bone or joint. The birth prevalence of congenital limb deficiency in 1996 was 25.64 per 100,000 live births. 
+The prevalence rate is highest among people aged 65 years and older ~ 19.4 per 1,000. 50,000 new amputations every year in USA based 
+on information from National Center for Health Statistics. Assuming. Those by now more than 2 million people have some kind of problem 
+related to hand. Assuming only 10% of those people would like to play the Churchill Solitaire game now, that is 200,000 new users.
+6.	Alternative Solution: Alternative solutions are developing IOS version using Swift programming language or web application 
+using HTML/CSS and JavaScript. They both seem to be good alternative solutions but Our team is already familiar with the android 
+development so it will be more cost/time efficient than learning new environment and programming languages. 
+7.	Project Risks: Some of the risks we can run into during development of this project are understanding the users’ voice commands
+and correctly responding to them since there are different accents and vocabulary people use. Another problem we could face is how 
+well the application work in a noisy environment and how fast can it detect the voice command. 
