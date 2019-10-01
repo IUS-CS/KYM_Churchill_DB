@@ -1,1 +1,3 @@
-# KYM_Churchill_DB
+# Team Name: KYM
+
+# Project Name: Churchill Database
