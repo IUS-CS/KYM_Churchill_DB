@@ -5,6 +5,7 @@ The main addition from regular Churchill Solitaire game is that the user will be
 accordingly. There are two teams working on this project. Our team is responsible for the database and API. 
 
 
+## Team Members:
 
 - Khuderchuluun Amgalanbaatar
 - Matthew Swarens
