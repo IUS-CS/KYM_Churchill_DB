@@ -6,10 +6,6 @@ accordingly. There are two teams working on this project. Our team is responsibl
 
 
 
-
-
-
-# Members
 - Khuderchuluun Amgalanbaatar
 - Matthew Swarens
 - Yanet F Lopez 
