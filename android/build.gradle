@@ -1,5 +1,4 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
-
 buildscript {
     ext {
         buildToolsVersion = "28.0.3"
@@ -36,3 +35,5 @@ allprojects {
         maven { url 'https://jitpack.io' }
     }
 }
+
+
